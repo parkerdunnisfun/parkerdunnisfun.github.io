@@ -4,7 +4,7 @@ permalink: /about/
 ---
 <div>
   <h1>about</h1>
-  <img src="/assets/me.jpg" alt="me" width="200" height="200" class="center"
+  <img src="https://parkerdunnisfun.github.io/assets/me.JPG" alt="me" width="200" height="200" class="center"
   style="border: 1px dotted black;
   padding: 5px">
   <p>I'm an undergraduate student at the University of Utah (the U) double majoring in <a href="https://www.cs.utah.edu/">computer science</a> and 
