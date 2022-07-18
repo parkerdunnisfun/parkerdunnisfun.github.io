@@ -1,3 +1,15 @@
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  div.header {
+    /* max-width: 125px; */
+    font-size: 150%;
+  }
+
+  p {
+    padding: 20px;
+  }
+}
+
 * {
     box-sizing: border-box;
   }
@@ -20,6 +32,10 @@
     margin-left: auto;
     margin-right: auto;
     /* width: 50%; */
+  }
+
+.header {
+  font-size: 200%;
   }
 
 ul {
