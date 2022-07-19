@@ -66,11 +66,11 @@ p {
 
 @font-face {
     font-family: Lucidia Blackletter;
-    src: url(lucidiablackletter.ttf);
+    src: url(https://parkerdunnisfun.github.io/assets/lucidiablackletter.ttf);
   }
 
 h1 {
     text-align: center;
-    font-family: 'Lucida Blackletter';
+    font-family: 'Lucida Blackletter', 'Times New Roman', Times, serif;
     font-size: 300%;
   }
