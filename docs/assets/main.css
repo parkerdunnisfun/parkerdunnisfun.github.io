@@ -74,3 +74,8 @@ h1 {
     font-family: 'Lucida Blackletter', 'Times New Roman', Times, serif;
     font-size: 300%;
   }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
